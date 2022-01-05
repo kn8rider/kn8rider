@@ -31,4 +31,4 @@
 [<img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-7.png" height="40" width="40" title="SQL"/>](https://www.w3schools.com/sql/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="40" width="60" title="Arduino"/>](https://www.arduino.cc/en/Tutorial/HomePage)
 
-[ <img src="https://github-readme-stats.vercel.app/api?username=RahulSChauhan50&hide=issues,prs,stars&show_icons=true&theme=prussian&border_radius=25" title="Rahul's Stats"/>](https://github-readme-stats.vercel.app/api?username=RahulSChauhan50&hide=issues,prs,stars&show_icons=true&theme=prussian&border_radius=25)
+[ <img src="https://github-readme-stats.vercel.app/api?username=kn8rider&hide=issues,prs,stars&show_icons=true&theme=prussian&border_radius=25" title="Khemchand's Stats"/>](https://github-readme-stats.vercel.app/api?username=kn8rider&hide=issues,prs,stars&show_icons=true&theme=prussian&border_radius=25)
